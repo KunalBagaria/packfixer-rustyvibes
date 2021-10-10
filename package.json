@@ -1,0 +1,11 @@
+{
+  "name": "packfixer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "any-shell-escape": "^0.1.1",
+    "execa": "^5.1.1",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
